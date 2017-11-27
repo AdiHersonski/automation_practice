@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="lib" path="C:/Users/Nitrogen/Desktop/Selenium AND QA from college/libs/log4j/log4j-api-2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitrogen/Desktop/Selenium AND QA from college/libs/log4j/log4j-core-2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitrogen/Desktop/Selenium AND QA from college/libs/TestNG/jcommander-1.69.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitrogen/Desktop/Selenium AND QA from college/libs/TestNG/testng-6.9.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitrogen/Desktop/Selenium AND QA from college/libs/TestNG/testng-6.11.jar" sourcepath="C:/Users/Nitrogen/Desktop/Selenium AND QA from college/libs/TestNG/testng-6.9.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitrogen/Documents/Jar/byte-buddy-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitrogen/Documents/Jar/client-combined-3.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitrogen/Documents/Jar/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitrogen/Documents/Jar/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitrogen/Documents/Jar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitrogen/Documents/Jar/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitrogen/Documents/Jar/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitrogen/Documents/Jar/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitrogen/Documents/Jar/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitrogen/Documents/Jar/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitrogen/Documents/Jar/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="82660" started-at="2017-11-26T23:54:56Z" finished-at="2017-11-26T23:56:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="82660" started-at="2017-11-26T23:54:56Z" finished-at="2017-11-26T23:56:19Z">
+      <class name="testingPackage.TestCases">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="beforeClass" is-config="true" duration-ms="6852" started-at="2017-11-26T18:54:56Z" finished-at="2017-11-26T18:55:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="test1" duration-ms="582" started-at="2017-11-26T18:55:03Z" finished-at="2017-11-26T18:55:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="afterClass" is-config="true" duration-ms="406" started-at="2017-11-26T18:55:04Z" finished-at="2017-11-26T18:55:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="beforeClass" is-config="true" duration-ms="6123" started-at="2017-11-26T18:55:04Z" finished-at="2017-11-26T18:55:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test11(java.lang.String, java.lang.String)[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="test11" duration-ms="1674" started-at="2017-11-26T18:55:10Z" data-provider="correctPasswordAndEmail" finished-at="2017-11-26T18:55:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[adi@adi.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test11 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="afterClass" is-config="true" duration-ms="747" started-at="2017-11-26T18:55:12Z" finished-at="2017-11-26T18:55:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="beforeClass" is-config="true" duration-ms="4194" started-at="2017-11-26T18:55:13Z" finished-at="2017-11-26T18:55:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test2(java.lang.String)[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="test2" duration-ms="736" started-at="2017-11-26T18:55:17Z" data-provider="inCorrectEmailInputList" finished-at="2017-11-26T18:55:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[adi.adi.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="afterClass" is-config="true" duration-ms="310" started-at="2017-11-26T18:55:18Z" finished-at="2017-11-26T18:55:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="beforeClass" is-config="true" duration-ms="5067" started-at="2017-11-26T18:55:18Z" finished-at="2017-11-26T18:55:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test2(java.lang.String)[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="test2" duration-ms="983" started-at="2017-11-26T18:55:23Z" data-provider="inCorrectEmailInputList" finished-at="2017-11-26T18:55:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1234567890adi.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="afterClass" is-config="true" duration-ms="339" started-at="2017-11-26T18:55:24Z" finished-at="2017-11-26T18:55:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="beforeClass" is-config="true" duration-ms="4953" started-at="2017-11-26T18:55:24Z" finished-at="2017-11-26T18:55:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test2(java.lang.String)[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="test2" duration-ms="716" started-at="2017-11-26T18:55:29Z" data-provider="inCorrectEmailInputList" finished-at="2017-11-26T18:55:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[adinkahersonski&adi.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="afterClass" is-config="true" duration-ms="330" started-at="2017-11-26T18:55:30Z" finished-at="2017-11-26T18:55:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="beforeClass" is-config="true" duration-ms="5850" started-at="2017-11-26T18:55:30Z" finished-at="2017-11-26T18:55:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test2(java.lang.String)[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="test2" duration-ms="661" started-at="2017-11-26T18:55:36Z" data-provider="inCorrectEmailInputList" finished-at="2017-11-26T18:55:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@adi.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="afterClass" is-config="true" duration-ms="370" started-at="2017-11-26T18:55:37Z" finished-at="2017-11-26T18:55:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="beforeClass" is-config="true" duration-ms="6275" started-at="2017-11-26T18:55:37Z" finished-at="2017-11-26T18:55:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test3(java.lang.String, java.lang.String)[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="test3" duration-ms="650" started-at="2017-11-26T18:55:43Z" data-provider="correctPasswordAndEmail" finished-at="2017-11-26T18:55:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[adi@adi.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="afterClass" is-config="true" duration-ms="319" started-at="2017-11-26T18:55:44Z" finished-at="2017-11-26T18:55:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="beforeClass" is-config="true" duration-ms="4419" started-at="2017-11-26T18:55:44Z" finished-at="2017-11-26T18:55:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test4(java.lang.String, java.lang.String)[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="test4" duration-ms="676" started-at="2017-11-26T18:55:49Z" data-provider="correctPasswordAndEmail" finished-at="2017-11-26T18:55:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[adi@adi.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="afterClass" is-config="true" duration-ms="312" started-at="2017-11-26T18:55:49Z" finished-at="2017-11-26T18:55:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="beforeClass" is-config="true" duration-ms="4548" started-at="2017-11-26T18:55:50Z" finished-at="2017-11-26T18:55:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test5(java.lang.String, java.lang.String)[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="test5" duration-ms="953" started-at="2017-11-26T18:55:54Z" data-provider="correctPasswordAndEmail" finished-at="2017-11-26T18:55:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[adi@adi.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="afterClass" is-config="true" duration-ms="757" started-at="2017-11-26T18:55:55Z" finished-at="2017-11-26T18:55:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="beforeClass" is-config="true" duration-ms="4659" started-at="2017-11-26T18:55:56Z" finished-at="2017-11-26T18:56:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test6(java.lang.String, java.lang.String)[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="test6" duration-ms="986" started-at="2017-11-26T18:56:01Z" data-provider="correctPasswordAndEmail" finished-at="2017-11-26T18:56:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[adi@adi.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="afterClass" is-config="true" duration-ms="1024" started-at="2017-11-26T18:56:02Z" finished-at="2017-11-26T18:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="beforeClass" is-config="true" duration-ms="6556" started-at="2017-11-26T18:56:03Z" finished-at="2017-11-26T18:56:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test8()[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="test8" duration-ms="965" started-at="2017-11-26T18:56:09Z" finished-at="2017-11-26T18:56:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="afterClass" is-config="true" duration-ms="714" started-at="2017-11-26T18:56:10Z" finished-at="2017-11-26T18:56:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="beforeClass" is-config="true" duration-ms="5593" started-at="2017-11-26T18:56:11Z" finished-at="2017-11-26T18:56:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test9(java.lang.String, java.lang.String)[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="test9" duration-ms="1711" started-at="2017-11-26T18:56:17Z" data-provider="correctPasswordAndEmail" finished-at="2017-11-26T18:56:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[adi@adi.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test9 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testingPackage.TestCases@48ae9b55]" name="afterClass" is-config="true" duration-ms="593" started-at="2017-11-26T18:56:18Z" finished-at="2017-11-26T18:56:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testingPackage.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
