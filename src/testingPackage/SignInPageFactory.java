@@ -54,6 +54,11 @@ public class SignInPageFactory {
 	@FindBy(className = "account")
 	WebElement myAccountButton;
 	
+	// Password mask validation
+	
+	@FindBy(xpath = "//input[@type='password']")
+	WebElement PasswordMaskValidation;
+	
 
 	public SignInPageFactory(WebDriver driver) {
 		this.driver = driver;
